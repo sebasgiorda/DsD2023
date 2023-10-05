@@ -7,8 +7,8 @@
 * Patricio Maccari                             	49839
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app](http://hyperlinkToGihubOrGitlab](https://github.com/PA7OOK/GPR-project.git)
+* [backend app](http://hyperlinkToGihubOrGitlab](https://github.com/PA7OOK/GPR-project-back.git)
 
 
 ## Tema
