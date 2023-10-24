@@ -1,5 +1,5 @@
 # DsD2023
-# Venta online de productos
+# Landing page empresarial
 
 ## Grupo
 ### Integrantes
