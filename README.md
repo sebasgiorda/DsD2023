@@ -17,7 +17,7 @@ Esta es una plataforma de comercio electrónico especializada en la venta de pro
 
 
 ### Modelo
-![imagen del modelo](https://github.com/sebasgiorda/DsD2023/blob/00bc7ec9c5f83264c4ff307fd615f57ce423d90f/Modelo%20de%20Dominio.drawio.png)
+![imagen del modelo](https://github.com/sebasgiorda/DsD2023/assets/84205560/3af77ab4-e160-4f42-8077-dabad192a8d7)
 
 ## Alcance Funcional 
 
