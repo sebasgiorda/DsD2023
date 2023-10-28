@@ -20,7 +20,7 @@ Esta es una plataforma de comercio electrónico especializada en la venta de pro
 ![imagen del modelo](https://github.com/sebasgiorda/DsD2023/assets/84205560/3af77ab4-e160-4f42-8077-dabad192a8d7)
 
 ## Alcance Funcional 
-
+El alcance de nuestro proyecto abarca procesos de registro y actualización de stock de una landing page empresarial.
 ### Alcance Mínimo
 
 |Req|Detalle|
