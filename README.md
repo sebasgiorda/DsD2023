@@ -26,7 +26,7 @@ El alcance de nuestro proyecto abarca procesos de registro y actualización de s
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Producto<br>2. CRUD Categoría<br>3. CRUD Usuario|
-|CRUD simple|1. CRUD Articulo<br> 2. CRUD Usuario|
+|CRUD simple|1. CRUD Producto<br> 2. CRUD Usuario|
 |CRUD dependiente|1. CRUD Producto {depende de} CRUD  Categoría|
 |Listado<br>+<br>detalle| 1. Listado de compras filtrado por nroVenta, precioTotal => detalle CRUD Compra<br>|
 |CUU/Epic|[CUU01- realizar venta](https://github.com/sebasgiorda/CUU1/blob/a38ab6e2a2a60549cfc512270e09a3cd38eda8f5/README.md)<br>[CUU02 - Cancelar venta](https://github.com/sebasgiorda/CUU2/blob/e34a5e36e860e7def805fb3e8f5f56ebcb012363/README.md)|
