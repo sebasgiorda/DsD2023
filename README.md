@@ -21,7 +21,7 @@ Esta es una plataforma de comercio electrónico especializada en la venta de pro
 
 ### Documentación
 [Metodología SCRUM](https://docs.google.com/document/d/1OEfmpBfHGT6yGiP8NScH9f3JHJPexk_zPa1qIa6-pPg/edit?usp=sharing)
-[Instalación](https://docs.google.com/document/d/1hqIAWIqBW7tiLpcaR3ARG91hbAgluvpK8ABS8aG0WiE/edit?usp=sharing)
+<br>[Instalación](https://docs.google.com/document/d/1hqIAWIqBW7tiLpcaR3ARG91hbAgluvpK8ABS8aG0WiE/edit?usp=sharing)
 
 
 ## Alcance Funcional 
