@@ -3,12 +3,12 @@
 
 ## Grupo
 ### Integrantes
-* Sebastian Giordanino Formoso                 	49819
+* Sebastián Giordanino Formoso                 	49819
 * Patricio Maccari                             	49839
 
 ### Repositorios
-* [frontend app](https://github.com/PA7OOK/GPR-project.git)
-* [backend app](https://github.com/PA7OOK/GPR-project-back.git)
+* [Front-end app](https://github.com/PA7OOK/GPR-project.git)
+* [Back-end app](https://github.com/PA7OOK/GPR-project-back.git)
 
 
 ## Tema
