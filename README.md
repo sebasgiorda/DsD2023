@@ -34,4 +34,4 @@ El alcance de nuestro proyecto abarca procesos de registro y actualización de s
 |CRUD simple|1. CRUD Categoría<br> 2. CRUD Usuario|
 |CRUD dependiente|1. CRUD Producto {depende de} CRUD  Categoría|
 |Listado<br>+<br>detalle| 1. Listado de productos filtrado por categoría o nombre y descripcion muestra: producto filtrado => detalle CRUD Producto<br>|
-|CUU/Epic|[CUU01- Carga Producto](https://github.com/sebasgiorda/CUU1/blob/a38ab6e2a2a60549cfc512270e09a3cd38eda8f5/README.md)<br>[CUU02 - Cancelar venta](https://github.com/sebasgiorda/CUU2/blob/e34a5e36e860e7def805fb3e8f5f56ebcb012363/README.md)|
+|CUU/Epic|[CUU01- Carga Producto](https://github.com/sebasgiorda/CUU1/blob/a38ab6e2a2a60549cfc512270e09a3cd38eda8f5/README.md)|
