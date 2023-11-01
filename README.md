@@ -20,8 +20,8 @@ Esta es una plataforma de comercio electrónico especializada en la venta de pro
 ![imagen del modelo](https://github.com/sebasgiorda/DsD2023/assets/84205560/3af77ab4-e160-4f42-8077-dabad192a8d7)
 
 ### Documentación
-![Metodología SCRUM](https://docs.google.com/document/d/1OEfmpBfHGT6yGiP8NScH9f3JHJPexk_zPa1qIa6-pPg/edit?usp=sharing)
-![Instalación](https://docs.google.com/document/d/1hqIAWIqBW7tiLpcaR3ARG91hbAgluvpK8ABS8aG0WiE/edit?usp=sharing)
+[Metodología SCRUM](https://docs.google.com/document/d/1OEfmpBfHGT6yGiP8NScH9f3JHJPexk_zPa1qIa6-pPg/edit?usp=sharing)
+[Instalación](https://docs.google.com/document/d/1hqIAWIqBW7tiLpcaR3ARG91hbAgluvpK8ABS8aG0WiE/edit?usp=sharing)
 
 
 ## Alcance Funcional 
