@@ -17,7 +17,7 @@ Esta plataforma de comercio electrónico está especializada en la venta de prod
 
 
 ### Modelo
-![imagen del modelo](https://github.com/sebasgiorda/DsD2023/assets/84205560/3af77ab4-e160-4f42-8077-dabad192a8d7)
+![imagen del modelo](https://github.com/sebasgiorda/DsD2023/blob/main/Modelo%20de%20Dominio%20Version%20Final.png)
 
 ### Documentación
 [Metodología SCRUM](https://docs.google.com/document/d/1OEfmpBfHGT6yGiP8NScH9f3JHJPexk_zPa1qIa6-pPg/edit?usp=sharing)
