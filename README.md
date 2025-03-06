@@ -13,7 +13,7 @@
 
 ## Tema
 ### Descripción
-Esta es una plataforma de comercio electrónico especializada en la venta de productos cortados por láser. Aquí, los productos se seleccionan de un catálogo publicado por el vendedor y se pueden encargar según las necesidades del usuario. Los usuarios tienen la opción de iniciar sesión y mantener un registro tanto de sus datos personales como de las compras realizadas. El sistema se encarga de facilitar todas las etapas de la transacción, desde agregar productos al carrito hasta realizar el pago de la venta, además de mantener un registro actualizado del stock vendido y los pedidos realizados.
+Esta plataforma de comercio electrónico está especializada en la venta de productos cortados por láser, ofreciendo un catálogo de productos que los usuarios pueden personalizar según sus necesidades. Los clientes deben registrarse para realizar compras, gestionar listas de deseos y acceder a funciones como el seguimiento de pedidos y la modificación de datos personales. El sistema facilita todas las etapas de la transacción, desde agregar productos al carrito hasta el pago mediante MercadoPago, y mantiene un registro actualizado del stock y los pedidos. Además, los administradores gestionan productos, promociones y descuentos, y pueden emitir informes de ranking de ventas y productos más visitados. La plataforma también incluye una sección de contacto para consultas y permite devoluciones dentro de los 5 días posteriores a la entrega.
 
 
 ### Modelo
